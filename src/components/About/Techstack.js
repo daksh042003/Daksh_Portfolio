@@ -10,7 +10,7 @@ import {
   DiGit,
 } from "react-icons/di";
 import {
-  SiMysql, SiHtml5, SiTailwindcss, SiExpress, SiMicrosoft, SiPowerbi
+  SiMysql, SiHtml5, SiTailwindcss, SiExpress, SiMicrosoft
 } from "react-icons/si";
 
 
